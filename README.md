@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner">
+</p>
+
 # Hi, I'm Alif 👋
 
 🚀 Full Stack Developer from Indonesia
