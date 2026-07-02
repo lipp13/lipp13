@@ -97,8 +97,8 @@ Complaint management and tracking system for public services.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: linkedin.com/in/alif-alfathar-183402407
-* 📧 Email: [alifalfathar13@email.com](mailto:alifalfathar13@email.com)
+* 💼 LinkedIn : [linkedin.com/in/alif-alfathar-183402407](https://www.linkedin.com/in/alif-alfathar-183402407/)
+* 📧 Email    : [alifalfathar13@email.com](mailto:alifalfathar13@email.com)
 * 🌐 Portfolio: [Click Here](https://liftech-portofolio.netlify.app/)
 
 ---
