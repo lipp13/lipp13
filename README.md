@@ -50,9 +50,13 @@ Building scalable web applications and backend systems with modern technologies.
 
 ### Tools & Others
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -97,7 +101,7 @@ Complaint management and tracking system for public services.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn : [linkedin.com/in/alif-alfathar-183402407](https://www.linkedin.com/in/alif-alfathar-183402407/)
+* 💼 LinkedIn : [alif-alfathar](https://www.linkedin.com/in/alif-alfathar-183402407/)
 * 📧 Email    : [alifalfathar13@email.com](mailto:alifalfathar13@email.com)
 * 🌐 Portfolio: [Click Here](https://personal-portofolio-website-git-main-lipp13s-projects.vercel.app/)
 
