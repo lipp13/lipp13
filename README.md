@@ -99,7 +99,7 @@ Complaint management and tracking system for public services.
 
 * 💼 LinkedIn : [linkedin.com/in/alif-alfathar-183402407](https://www.linkedin.com/in/alif-alfathar-183402407/)
 * 📧 Email    : [alifalfathar13@email.com](mailto:alifalfathar13@email.com)
-* 🌐 Portfolio: [Click Here](https://liftech-portofolio.netlify.app/)
+* 🌐 Portfolio: [Click Here](https://personal-portofolio-website-git-main-lipp13s-projects.vercel.app/)
 
 ---
 
