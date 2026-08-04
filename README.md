@@ -103,7 +103,7 @@ Complaint management and tracking system for public services.
 
 * 💼 LinkedIn : [alif-alfathar](https://www.linkedin.com/in/alif-alfathar-183402407/)
 * 📧 Email    : [alifalfathar13@email.com](mailto:alifalfathar13@email.com)
-* 🌐 Portfolio: [Click Here](https://personal-portofolio-website-dtt4-seven.vercel.app/)
+* 🌐 Portfolio: [Click Here](lipp-porto.vercel.app)
 
 ---
 
