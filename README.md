@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer Animation" />
+  <img
+    src="https://github.com/user-attachments/assets/2cdc8ffd-e421-4a90-af50-36467aaa6bad"
+    width="380"
+    alt="Coding Animation"
+  />
 </p>
 
 <h1 align="center">
@@ -51,7 +55,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 ### Main Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mysql,postgres,supabase," />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mysql,postgres,supabase" />
 </p>
 
 </div>
@@ -63,7 +67,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,php," />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,php" />
 </p>
 
 </details>
@@ -73,7 +77,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,react native,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,reactnative,flutter" />
 </p>
 
 </details>
