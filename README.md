@@ -51,27 +51,27 @@ Currently focused on improving my understanding of **backend architecture, syste
 
 ## Tech Stack
 
-<div align="center">
+<div>
 
 ### Main Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mysql,postgres,supabase&perline=6" />
 </p>
 
 <br>
 
-<details>
+<details align="left">
 <summary><b>Programming Languages</b></summary>
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,py,go&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php" />
 </p>
 
 </details>
 
-<details>
+<details align="left">
 <summary><b>Frontend & Mobile</b></summary>
 <br>
 
@@ -87,7 +87,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 
 </details>
 
-<details>
+<details align="left">
 <summary><b>Backend Frameworks</b></summary>
 <br>
 
@@ -97,7 +97,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 
 </details>
 
-<details>
+<details align="left">
 <summary><b>Databases & ORM</b></summary>
 <br>
 
@@ -107,7 +107,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 
 </details>
 
-<details>
+<details align="left">
 <summary><b>Tools & Deployment</b></summary>
 <br>
 
