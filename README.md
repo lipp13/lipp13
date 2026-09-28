@@ -130,23 +130,18 @@ Currently focused on improving my understanding of **backend architecture, syste
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/lipp13">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=lipp13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-      height="180"
-      alt="GitHub Stats"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lipp13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-  <a href="https://github.com/lipp13">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=lipp13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320"
-      height="180"
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipp13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
-
 </div>
 
 ---
