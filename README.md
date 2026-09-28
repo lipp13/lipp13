@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/2cdc8ffd-e421-4a90-af50-36467aaa6bad"
-    width="600"
+    width="700"
     alt="Coding Animation"
   />
 </p>
