@@ -92,7 +92,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,hono,php,laravel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&perline=6" />
 </p>
 
 </details>
@@ -102,7 +102,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,supabase&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,supabase&perline=6" />
 </p>
 
 </details>
@@ -112,7 +112,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,netlify,aws&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,netlify,aws&perline=8" />
 </p>
 
 </details>
