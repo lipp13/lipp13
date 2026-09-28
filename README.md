@@ -1,17 +1,15 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/2cdc8ffd-e421-4a90-af50-36467aaa6bad"
-    width="380"
+    width="520"
     alt="Coding Animation"
   />
 </p>
 
-<h1 align="center">
-  Alif Alfathar
-</h1>
+<h1 align="center">Alif Alfathar</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Backend Enthusiast</strong>
+  <strong>Full Stack Developer · Backend Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -20,14 +18,17 @@
 
 <p align="center">
   <a href="https://lipp-porto.vercel.app/">Portfolio</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/alif-alfathar-183402407/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;·&nbsp;
   <a href="mailto:alifalfathar13@email.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lipp13&label=PROFILE+VIEWS&color=3ECF8E&style=flat-square" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=lipp13&label=PROFILE+VIEWS&color=3ECF8E&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -40,11 +41,11 @@ I enjoy building web applications, designing APIs, working with databases, and e
 
 Currently focused on improving my understanding of **backend architecture, system design, database optimization, and scalable application development**.
 
-- Full Stack Development
-- REST API Development
-- Authentication & Authorization
-- Database-driven Applications
-- Backend Architecture
+* Full Stack Development
+* REST API Development
+* Authentication & Authorization
+* Database-driven Applications
+* Backend Architecture
 
 ---
 
@@ -55,10 +56,8 @@ Currently focused on improving my understanding of **backend architecture, syste
 ### Main Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mysql,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mysql,postgres,supabase&perline=6" />
 </p>
-
-</div>
 
 <br>
 
@@ -67,7 +66,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,php" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,py,go&perline=5" />
 </p>
 
 </details>
@@ -77,17 +76,23 @@ Currently focused on improving my understanding of **backend architecture, syste
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,reactnative,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter&perline=8" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
+    width="48"
+    height="48"
+    alt="React Native"
+  />
 </p>
 
 </details>
 
 <details>
-<summary><b>Backend</b></summary>
+<summary><b>Backend Frameworks</b></summary>
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,hono,php,laravel&perline=6" />
 </p>
 
 </details>
@@ -97,7 +102,7 @@ Currently focused on improving my understanding of **backend architecture, syste
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,supabase&perline=6" />
 </p>
 
 </details>
@@ -107,16 +112,16 @@ Currently focused on improving my understanding of **backend architecture, syste
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,netlify,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,netlify,aws&perline=8" />
 </p>
 
 </details>
 
 <br>
 
-<p align="center">
-  <i>"Build with purpose, learn through practice, improve through iteration."</i>
-</p>
+<i>"Build with purpose, learn through practice, improve through iteration."</i>
+
+</div>
 
 ---
 
@@ -126,35 +131,40 @@ Currently focused on improving my understanding of **backend architecture, syste
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lipp13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=lipp13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     height="180"
     alt="GitHub Stats"
   />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipp13&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipp13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+ height="180"
+ alt="Top Languages"
+/>
+
 </p>
+
 </div>
 
 ---
 
 <p align="center">
   <a href="https://lipp-porto.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white" />
+    Portfolio
   </a>
-
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/alif-alfathar-183402407/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    LinkedIn
   </a>
-
+  &nbsp;·&nbsp;
   <a href="mailto:alifalfathar13@email.com">
-    <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" />
+    Email
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E4A,100:3ECF8E&height=100&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E4A,100:3ECF8E&height=100&section=footer"
+    width="100%"
+  />
 </p>
